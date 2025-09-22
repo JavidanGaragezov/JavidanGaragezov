@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+My name is Javidan Garagozov, I am from Azerbaijan and I am a freshman in Bilkent University.
+😄 Pronouns: he/him
+⚡ Fun fact: I used to memorise more than 100 digits of pi for some reason :,)
+🌱 I’m currently learning java programming language with the cs101 course of Bilkent University.
+📫 How to reach me:
+mail me (javidangaragezov@gmail.com)
 <!--
 **JavidanGaragezov/JavidanGaragezov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
